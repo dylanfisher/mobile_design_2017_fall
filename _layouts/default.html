@@ -2,11 +2,12 @@
 <html>
   {% include head.html %}
   {% capture layout %}{% if page.layout %}layout--{{ page.layout }}{% endif %}{% endcapture %}
-  <body class="container-fluid {{ layout }}">
+  <body class="{{ layout }}">
     {% include header.html %}
-    {% include footer.html %}
     <div class="content">
       {{ content }}
     </div>
+    {% include footer.html %}
   </body>
+  {% include scripts.html %}
 </html>

@@ -21,12 +21,17 @@ h3 {
   }
 }
 
-ul, p {
+ul,
+p {
   margin: 0 0 $line-height;
 
   &:last-child {
     margin-bottom: 0;
   }
+}
+
+p.font-small-title {
+  margin-bottom: $line-height / 2;
 }
 
 pre,

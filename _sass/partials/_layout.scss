@@ -1,1 +1,18 @@
 // Layout
+
+.block {
+  & + .block {
+    margin-top: 60px;
+  }
+}
+
+.content-band {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.content-band--white {
+  background-color: $white;
+}
