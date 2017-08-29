@@ -1,0 +1,12 @@
+---
+layout: page
+permalink: /students/index.html
+---
+
+<div class="student-list">
+  {% for student in site.students %}
+    <div class="student">
+      <h2>{{ student.first_name }} {{ student.last_name }}</h2>
+    </div>
+  {% endfor %}
+</div>
