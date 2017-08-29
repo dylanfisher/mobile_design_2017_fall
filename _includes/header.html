@@ -9,14 +9,14 @@
 
   <nav class="nav">
     <ul class="nav__list list--blank">
-      <li class="nav__header"><a href="/" class="font-large-title"><b>Mobile Design</b></a></li>
+      <li class="nav__header"><a href="/" class="font-large-title blank-link"><b>Mobile Design</b></a></li>
       {% for link_hash in site.navigation %}
         {% for link in link_hash %}
           {% assign active_class = '' %}
           {% if page.url contains link[1] %}
             {% assign active_class = 'active' %}
           {% endif %}
-          <li><a href="{{ link[1] }}" class="font-large-title {{ active_class }}">{{ link[0] }}</a></li>
+          <li><a href="{{ link[1] }}" class="font-large-title blank-link {{ active_class }}">{{ link[0] }}</a></li>
         {% endfor %}
       {% endfor %}
     </ul>

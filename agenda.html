@@ -3,19 +3,25 @@ layout: page
 permalink: /agenda/index.html
 ---
 
-<ol class="agenda-list list--blank">
-  {% assign agendas = site.agendas | sort: 'start_date' | reverse %}
-  {% for agenda in agendas %}
-    <li class="agenda">
+<div class="text-center">
+  <div class="flag margin-bottom-medium">
+    Agenda
+  </div>
+</div>
+
+<ol class="resource-list list--blank">
+  {% assign resources = site.agendas | sort: 'start_date' | reverse %}
+  {% for resource in resources %}
+    <li class="resource">
       <div class="row">
         <div class="col-sm-12">
-          <a class="agenda__row" href="{{ agenda.url | prepend: site.baseurl }}">
+          <a class="resource__row" href="{{ resource.url | prepend: site.baseurl }}">
             <div class="row">
-              <div class="col-sm-8">
-                <h2 class="agenda__title">{{ agenda.title }}</h2>
+              <div class="col-sm-3 text-center va-baseline">
+                <div class="resource__date-range">{{ resource.date_range }}</div>
               </div>
-              <div class="col-sm-4 text-right va-bottom">
-                <div class="agenda__date-range">{{ agenda.date_range }}</div>
+              <div class="col-sm-9 text-center va-baseline">
+                <h2 class="resource__title">{{ resource.title }}</h2>
               </div>
             </div>
           </a>
@@ -24,3 +30,5 @@ permalink: /agenda/index.html
     </li>
   {% endfor %}
 </ol>
+
+{% include background_clouds.html %}

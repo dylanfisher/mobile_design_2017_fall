@@ -6,8 +6,9 @@
 // Core - fonts, variables, mixins, etc. These shouldn't output any CSS on their own.
 @import "core/fonts";
 @import "core/variables";
-@import "core/typography_engine";
 @import "core/mixins/breakpoints";
+@import "core/mixins/inverted_colors";
+@import "core/typography_engine";
 @import "core/mixins/ui";
 
 // Base - basic foundation and structural styles
@@ -24,3 +25,6 @@
 @import "partials/footer";
 @import "partials/home";
 @import "partials/layout";
+@import "partials/resource_lists";
+@import "partials/students";
+@import "partials/background_svgs";

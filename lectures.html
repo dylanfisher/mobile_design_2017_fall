@@ -3,23 +3,29 @@ layout: page
 permalink: /lectures/index.html
 ---
 
-<ol class="lecture-list list--blank">
-  {% assign lectures = site.lectures | sort: 'lecture_date' %}
-  {% for lecture in lectures %}
-    {% if lecture.hidden %}
-      {% continue %}
-    {% endif %}
-    <li class="lecture">
-      <div class="lecture__info">
-        <div class="lecture__title">
-          <h2>
-            <a class="lecture__title__link blank-link" href="{{ lecture.url | prepend: site.baseurl }}">{{ lecture.title }}</a>
-          </h2>
-          <div class="lecture__date">
-            {{ lecture.lecture_date |  date: '%A, %_m/%e' }}
+<div class="text-center">
+  <div class="flag margin-bottom-medium">
+    Lectures
+  </div>
+</div>
+
+<ol class="resource-list list--blank">
+  {% assign resources = site.lectures | sort: 'start_date' | reverse %}
+  {% for resource in resources %}
+    <li class="resource">
+      <div class="row">
+        <div class="col-sm-12">
+          <div class="row">
+            <div class="col-sm-12 text-center">
+              <div class="content-band">
+                <h2>Coming soon!</h2>
+              </div>
+            </div>
           </div>
         </div>
       </div>
     </li>
   {% endfor %}
 </ol>
+
+{% include background_clouds.html %}

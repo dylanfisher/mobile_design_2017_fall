@@ -1,17 +1,20 @@
 a {
   text-decoration: none;
-  color: #000;
+  border-bottom: 2px solid $orange;
+  color: inherit;
 
   &:hover {
-    text-decoration: underline;
+    color: $orange;
   }
 }
 
 .blank-link {
-  text-decoration: none !important;
+  text-decoration: none;
+  border-bottom: 0;
 
   &:hover {
-    text-decoration: underline !important;
+    border-bottom: 0;
+    color: inherit;
   }
 }
 
@@ -56,8 +59,7 @@ a {
 
   ul li {
     position: relative;
-    text-indent: -0.9em;
-    margin-left: 0.9em;
+    margin-bottom: 0.5em;
 
     &:before {
       content: '—';
@@ -65,11 +67,7 @@ a {
   }
 
   a {
-    text-decoration: underline;
-
-    &:hover {
-      text-decoration: none;
-    }
+    word-break: break-word;
   }
 
   hr {
@@ -120,4 +118,14 @@ a {
 
 ::selection {
   background: $selection-color;
+}
+
+.flag {
+  @include font-large-title;
+  background-color: $white;
+  border-left: 20px solid $orange;
+  padding: 12px 30px;
+  line-height: 1;
+  display: inline-block;
+  margin-bottom: 10px;
 }

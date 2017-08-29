@@ -45,15 +45,19 @@ $font-stack-title: 'triogrotesk', sans-serif;
   font-weight: normal;
   font-size: 15px;
   line-height: 1.45;
-  letter-spacing: 1.4px;
+  letter-spacing: 1px;
 }
 .font-small-title { @include font-small-title; }
 
 @mixin font-jumbo-title {
   font-family: $font-stack-title;
   font-weight: normal;
-  font-size: 60px;
+  font-size: 40px;
   line-height: 1.1;
   letter-spacing: -2px;
+
+  @include breakpoint(sm) {
+    font-size: 50px;
+  }
 }
 .font-jumbo-title { @include font-jumbo-title; }
