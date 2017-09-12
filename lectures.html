@@ -10,18 +10,21 @@ permalink: /lectures/index.html
 </div>
 
 <ol class="resource-list list--blank">
-  {% assign resources = site.lectures | sort: 'start_date' | reverse %}
+  {% assign resources = site.lectures | sort: 'lecture_date' | reverse %}
   {% for resource in resources %}
     <li class="resource">
       <div class="row">
         <div class="col-sm-12">
-          <div class="row">
-            <div class="col-sm-12 text-center">
-              <div class="content-band">
-                <h2>Coming soon!</h2>
+          <a class="resource__row" href="{{ resource.lecture_link | prepend: site.baseurl }}">
+            <div class="row">
+              <div class="col-sm-3 text-center va-baseline">
+                <div class="resource__date-range">{{ resource.lecture_date | date: "%m/%d" }}</div>
+              </div>
+              <div class="col-sm-9 text-center va-baseline">
+                <h2 class="resource__title">{{ resource.title }}</h2>
               </div>
             </div>
-          </div>
+          </a>
         </div>
       </div>
     </li>
