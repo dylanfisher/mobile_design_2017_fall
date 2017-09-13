@@ -25,5 +25,4 @@ date_range:       09/12
 
 ### Homework
 
-- Revise your mobile design to utilize either sight, touch, smell, hearing, taste, location (?) or some combination of these.
-- Make 3 sketches for this in InVision and have ready to share at sart of class.
+- Revise your mobile design to utilize either sight, touch, smell, hearing, tase, or location or some combination of these. Think about how to cultivate a narrative through the use of typography and your interaction. Make 1 sketch for this in InVision to show how it can work.
