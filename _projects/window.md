@@ -8,8 +8,10 @@ index:            1
 ## "At times the mirror increases a thing's value, at times denies it. Not everything that seems valuable above the mirror maintains its force when mirrored. The twin cities are not equal, because nothing that exists or happens in Valdrada is symmetrical: every face and gesture is answered, from the mirror, by a face and gesture inverted, point by point. The two Valdradas live for each other, their eyes interlocked; but there is no love between them."
 <br>
 –_Invisible Cities, Italo Calvino, pg 54: Cities & Eyes_
-<br>
+<br><br>
 
+#### ![Mirror Mirror](../assets/imgs/mirror.png)
+<br>
 ### Introduction
 
 So often, our eyes are glued to our phones, infinitely scrolling and being distracted by what's happening in real time. The internet and technology connect us to one another, while simultaneously distracting us from what's in front. For this assignment, I'd like you to design a mobile application to be used meaningfully in a space: so that real life and the phone work in tandem, each offering something complimentary to the other. Your mobile app should not be a mirror to what's in front of you, but rather contribute to the space in a way not possible without it.
@@ -29,7 +31,10 @@ Your app should fill in these blanks: _My destination is _______. _When my user 
 9. Complete the design of your product. You should have about 10 screens, some of which should have interaction.
 10. Pool all your research and work into a cohesive presentation. Add in design & branding guidelines.
 11. Assemble either a short video introducing your app, or a 1 page website demonstrating it. Bonus points for a coded website.
+<br><br>
 
+#### ![Mirror Mirror](../assets/imgs/mirror.png)
+<br>
 ### Midterm Presentation
 You will present the following on October 24:
 1. Concept/ideation
