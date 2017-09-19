@@ -16,7 +16,7 @@ index:            1
 
 So often, our eyes are glued to our phones, infinitely scrolling and being distracted by what's happening in real time. The internet and technology connect us to one another, while simultaneously distracting us from what's in front. For this assignment, I'd like you to design a mobile application to be used meaningfully in a space: so that real life and the phone work in tandem, each offering something complimentary to the other. Your mobile app should not be a mirror to what's in front of you, but rather contribute to the space in a way not possible without it.
 
-Your app should fill in these blanks: _My destination is _______. _When my user is in the space, I want them to feel _______ and notice __.
+Your app should fill in these blanks: *My destination is __. When my user is in the space, I want them to feel __ and notice __.*
 
 ### Instructions
 
