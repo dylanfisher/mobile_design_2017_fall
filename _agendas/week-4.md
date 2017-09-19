@@ -9,8 +9,7 @@ date_range:       09/19
 - Weekly presentation from Sherry
 - Introduce Midterm &amp; Final, [Window to a World](/projects/window).
 - Share updated syllabus.
-- Share template for homework. Optional to use.
-- Observe examples of space specific projects in art and design.
+- Observe lecture: [exercises in seeing](../assets/lectures/lecture-3_seeing-places.pdf)
 - Students share their work.
 
 ### Homework
@@ -25,4 +24,5 @@ date_range:       09/19
 
 - Also consider names for your app.
 - Research any existing apps and branding for your space.
-- Put all of your research into a presentation.
+- Put all of your research into a presentation that can be accessed at the start of class.
+-Reading: [Grids by Rosalind Krauss](../assets/readings/krauss.pdf). Come to class with one question/comment about the reading.
