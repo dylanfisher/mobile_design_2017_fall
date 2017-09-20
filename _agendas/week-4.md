@@ -21,4 +21,4 @@ date_range:       09/19
 - Things to start thinking about: how technology can add to the environment? to the narrative? How do you want to name your location?
 - Research any existing apps and branding for your space only after you've visited the environment.
 - Put all of your research into a PDF presentation that can be accessed at the start of class. (a few pages of fieldnotes with imagery and descriptions, a map of the place, why you're interested in the location, what feelings you have there, what you want to focus on, how technology can add to it)
-- Reading: [Grids by Rosalind Krauss](assets/readings/krauss.pdf). Come to class with one question/comment about the reading.
+- Reading: [Grids by Rosalind Krauss](../assets/readings/krauss.pdf). Come to class with one question/comment about the reading.
