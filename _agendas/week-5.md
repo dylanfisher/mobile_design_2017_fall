@@ -9,7 +9,7 @@ date_range:       09/26
 - Weekly presentation from Sherry &amp; Allen
 - Discuss reading, [Grids](../assets/lectures/lecture-4andahalf_Grids-Highlights.pdf)
 - Go over homework
-- Discuss [User Flows &amp; Wireframes](../assets/lectures/lecture-4/user-flows.pdf)
+- Discuss [User Flows &amp; Wireframes](../assets/lectures/lecture-4_user-flows.pdf)
 - Setting up Wire frames
 - Students share their work
 
