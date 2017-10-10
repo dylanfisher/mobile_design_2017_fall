@@ -16,5 +16,5 @@ date_range:       10/10
 ### Homework
 
 - Think of questions to ask Charles Broskoski. (Required!)
-- Decide on your design decision. Continue working on your pages and start assembling things together for your midterm presentation.
+- Decide on your design direction. Continue working on your pages and start assembling things together for your midterm presentation.
   Next week we'll have individual meetings with me. Feel free to email me if you want additional assistance.
