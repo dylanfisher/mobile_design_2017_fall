@@ -12,6 +12,7 @@ date_range:       10/10
 - Review [Weekly Presentation](https://docs.google.com/document/d/1V7504N3Vpyv_-5vdzhIp39zikoc0iJ6mCHj3sZfLlE8/edit?ts=59a4d11e)
 - Review [student order](https://docs.google.com/document/d/1bwmIO5aMIq8KmsOr8m4OYniSOvherm84YDeTHM2Pe_8/edit) for weekly presentations
 - Discuss reading, and lecture: [Intentionality](../assets/lectures/lecture-5_intention.pdf)
+- Review homework
 
 ### Homework
 
