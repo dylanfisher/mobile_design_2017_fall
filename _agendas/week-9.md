@@ -11,5 +11,5 @@ date_range:       10/23
 ### Homework
 
 - Read [Are.na: Harsh Patel](http://designenvy.aiga.org/are-na-harsh-patel/)
-- Read [Programming Design System: Perceptually uniform color spaces](https://programmingdesignsystems.com/color/perceptually-uniform-color-spaces/index.html#perceptually-uniform-color-spaces-e7zMSWy)
-- Read [Programming Design System: Color Schemes](https://programmingdesignsystems.com/color/color-schemes/index.html#color-schemes-dV9Rf6L)
+- Read [Programming Design Systems: Perceptually Uniform color Spaces](https://programmingdesignsystems.com/color/perceptually-uniform-color-spaces/index.html#perceptually-uniform-color-spaces-e7zMSWy)
+- Read [Programming Design Systems: Color Schemes](https://programmingdesignsystems.com/color/color-schemes/index.html#color-schemes-dV9Rf6L)
