@@ -15,5 +15,5 @@ date_range:       10/31
 ### Homework
 
 - User Testing: Decide on an interaction from your project you'd like to test out. Assemble a few screens and link them in InVision. Send your design out to the user testers on InVision by clicking the recording button at the top right in the prototype screen.
-Make sure to write a brief explanation for the project and write 3 questions on what you'd like the user to focus on.
+Make sure to write a brief explanation for the project and write 3 questions on what you'd like the user to focus on. Forward your user test video to me along with your description and 3 questions. If you weren't in class please email me for more information!!
 - Brand Guidelines: Begin assembling brand/design guidelines for your app. You can use this as a template for your final presentaiton. Design 3 pages/screens. Here are some ideas on things to outline: brand values, logo usage (if applicable), color palette and how the color palette is used in context, typeface selection, supporting elements, iconography, animations, touch gestures etc.
