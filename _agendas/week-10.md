@@ -1,6 +1,6 @@
 ---
 title:            Week 10
-start_date:       2017-01-24 00:00:00 -0500
+start_date:       2017-10-24 00:00:00 -0500
 date_range:       10/31
 ---
 
