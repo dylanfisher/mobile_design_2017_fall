@@ -11,5 +11,4 @@ date_range:       11/13
 
 ### Homework
 
-- Finalize your outline and continue making progress on each check point
-- Continue working on your brand guidelines and final presentation (including video or websites)
+- Come to class on 11/28 with a complete working draft of your final presentation, app store activity and video/website (No exceptions!)
