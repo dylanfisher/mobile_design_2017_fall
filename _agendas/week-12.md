@@ -11,4 +11,4 @@ date_range:       11/13
 
 ### Homework
 
-- Come to class on 11/28 with a complete working draft of your final presentation, app store activity and video/website (No exceptions!)
+- Come to class on 11/28 with a complete working draft of your final presentation, app store activity and video/website (No exce  ptions!)
